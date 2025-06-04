@@ -21,6 +21,12 @@ To design a wireframe diagram for a generic application or website using Balsami
 
 ## Output:
 
+```
+Created By   : Niraunjana Gayathri G R
+Register No. : 212222230096
+
+```
+
 [UIUX_EX_04.pdf](https://github.com/user-attachments/files/20539677/UIUX_EX_04.pdf)
 
 
